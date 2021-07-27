@@ -100,7 +100,7 @@ img {
 }
 
 
-@media (max-width: 575px) {
+@media (max-width: 375px) {
     .column{
         flex-direction: column;
         justify-content: center;
